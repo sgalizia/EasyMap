@@ -1,0 +1,6 @@
+framework module Pods_EasyMapTests {
+  umbrella header "Pods-EasyMapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

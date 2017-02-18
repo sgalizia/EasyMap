@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "A framework for easily working with MapKit."
   s.description  = <<-DESC
-                      EasyMap is a wrapper for MapKit to make it veyr simple to work with. It strips away the
+                      EasyMap is a wrapper for MapKit to make it very simple to work with. It strips away the
                       complexity and simply allows you to work with locations and the map view.
                    DESC
 
